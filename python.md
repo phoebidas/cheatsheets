@@ -1,5 +1,15 @@
 # Python cheat sheet
 
+### To mark python code in markdown script use ```
+
+```python
+
+# import pandas
+
+```
+
+
+
 ## Pad a number with zeros on the left
 
 From [StackOverflow](http://stackoverflow.com/questions/339007/nicest-way-to-pad-zeroes-to-string)
